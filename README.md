@@ -23,18 +23,18 @@ TEAM PENGEMBANG :
 Untuk tahap awal pengembangan di lakukan oleh satu orang, dan satu komentator dalam pemberian saran untuk penambahan 
 module.
 
-Desain/Analisa/Programmer :
-Nama : Harry Setya Hadi
-Inisial : H4nk
-Tempt, Tgl Lahir : Lubuk Sikaping, 23-Juli-1987
-Email : xmoensen@gmail.com
-Me Blog : H4nk.blogspot.com
-Facebook : xmoensen
+Desain/Analisa/Programmer :                                                                
+Nama : Harry Setya Hadi                                                             
+Inisial : H4nk                                                                                     
+Tempt, Tgl Lahir : Lubuk Sikaping, 23-Juli-1987                                                   
+Email : xmoensen@gmail.com                                                                             
+Me Blog : H4nk.blogspot.com                                                
+Facebook : xmoensen                                                                                   
+                                                             
+Komentator :                                              
+Nama : Ratna                                                  
 
-Komentator :
-Nama : Ratna
-
-View Demo Online dapat dilihat : 
+View Demo Online dapat dilihat :                                               
 http://h4nk.blogspot.com/2013/07/psb-online-demo-php.html
 
 TERIMA KASIH.
