@@ -1,0 +1,43 @@
+# Jejak pada: [ 08-Feb-2012 ] #
+[ 127.0.0.1 ] 07:38 -- admin Terdaftar
+[ 127.0.0.1 ] 07:38 -- admin Langkah 2
+[ 127.0.0.1 ] 07:38 -- admin Unggah Foto
+[ 127.0.0.1 ] 07:41 -- admin Unggah Foto
+[ 127.0.0.1 ] 07:41 -- admin Unggah Foto
+[ 127.0.0.1 ] 10:29 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Terdaftar
+[ 127.0.0.1 ] 10:29 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Langkah 2
+[ 127.0.0.1 ] 10:59 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Keluar
+[ 127.0.0.1 ] 11:01 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Terdaftar
+[ 127.0.0.1 ] 11:01 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Langkah 2
+[ 127.0.0.1 ] 11:04 -- &lt;h1&gt;woyooo&lt;/h1&gt;&lt;iframe&gt;&lt;/iframe&gt;&lt;script type=\&#039;text/javascript\&#039;&gt;alert(\&#039;adsfsdf\&#039;);&lt;/script&gt; Keluar
+[ 127.0.0.1 ] 12:02 -- sadfjdfh&amp;#039;juah Terdaftar
+[ 127.0.0.1 ] 12:04 -- sadfjdfh&amp;#039;juah Langkah 2
+[ 127.0.0.1 ] 12:04 -- sadfjdfh&amp;#039;juah Keluar
+[ 127.0.0.1 ] 12:04 -- sdf&amp;#039;a Terdaftar
+[ 127.0.0.1 ] 12:04 -- sdf&amp;#039;a Langkah 2
+[ 127.0.0.1 ] 12:06 -- sdf&amp;#039;a Keluar
+[ 127.0.0.1 ] 12:06 -- asdf&amp;#039;adsf Terdaftar
+[ 127.0.0.1 ] 12:06 -- asdf&amp;#039;adsf Langkah 2
+[ 127.0.0.1 ] 20:51 --  Langkah 2
+[ 127.0.0.1 ] 20:52 --  Langkah 2
+[ 127.0.0.1 ] 20:52 -- admin Terdaftar
+[ 127.0.0.1 ] 20:52 -- admin Langkah 2
+[ 127.0.0.1 ] 20:52 -- admin Keluar
+[ 127.0.0.1 ] 20:52 -- admin'ah Data Belum Lengkap
+[ 127.0.0.1 ] 20:53 --  Langkah 2
+[ 127.0.0.1 ] 21:11 -- Jum\'atiah Terdaftar
+[ 127.0.0.1 ] 21:11 -- Jum\'atiah Langkah 2
+[ 127.0.0.1 ] 21:29 -- Jum\'atiah Keluar
+[ 127.0.0.1 ] 21:29 -- &lt;h1&gt;askdfjlsfjsldkf&lt;/h1&gt; Halo\'aaaaa Terdaftar
+[ 127.0.0.1 ] 21:29 -- &lt;h1&gt;askdfjlsfjsldkf&lt;/h1&gt; Halo\'aaaaa Langkah 2
+[ 127.0.0.1 ] 21:30 -- &lt;h1&gt;askdfjlsfjsldkf&lt;/h1&gt; Halo\'aaaaa Keluar
+[ 127.0.0.1 ] 21:33 --  Terdaftar
+[ 127.0.0.1 ] 21:36 --  Langkah 2
+[ 127.0.0.1 ] 21:36 --  Keluar
+[ 127.0.0.1 ] 21:37 -- a'an Terdaftar
+[ 127.0.0.1 ] 21:37 -- a'an Langkah 2
+[ 127.0.0.1 ] 21:37 -- a'an Langkah 2
+[ 127.0.0.1 ] 21:37 -- a'an Keluar
+[ 127.0.0.1 ] 21:38 -- &lt;h1&gt;wa'tu&lt;/h1&gt; Terdaftar
+[ 127.0.0.1 ] 21:38 -- &lt;h1&gt;wa'tu&lt;/h1&gt; Langkah 2
+[ 127.0.0.1 ] 21:38 -- &lt;h1&gt;wa'tu&lt;/h1&gt; Keluar

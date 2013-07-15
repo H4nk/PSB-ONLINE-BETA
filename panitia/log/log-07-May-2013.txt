@@ -1,0 +1,13 @@
+# Jejak pada: [ 07-May-2013 ] #
+[ ::1 ] 06:45 -- admin Login Gagal.
+[ ::1 ] 06:45 -- admin Login Gagal.
+[ ::1 ] 06:47 -- User admin (Berhasil login)
+[ ::1 ] 06:47 -- admin Mengubah Pengumuman.
+[ ::1 ] 06:50 -- admin Log Out
+[ ::1 ] 07:03 -- User admin (Berhasil login)
+[ ::1 ] 07:03 -- admin Download File Report Exel
+[ ::1 ] 07:12 -- admin Login Gagal.
+[ ::1 ] 07:13 -- SUCIPTO Login
+[ ::1 ] 07:14 -- SMK0300005 Print Formulir
+[ ::1 ] 07:16 -- SUCIPTO Keluar
+[ ::1 ] 07:17 -- admin, Menghapus SMK0500007

@@ -1,0 +1,25 @@
+# Jejak pada: [ 15-Jul-2013 ] #
+[ ::1 ] 08:20 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:21 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:21 -- Harry Setya Hadi Unggah Foto
+[ ::1 ] 08:27 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:29 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:29 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:31 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:32 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:32 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:34 -- Harry Setya Hadi Unggah Foto
+[ ::1 ] 08:34 -- SMK071500000 Print Formulir
+[ ::1 ] 08:41 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:41 -- User admin (Berhasil login)
+[ ::1 ] 08:44 -- admin Log Out
+[ ::1 ] 08:51 -- User admin (Login Gagal)
+[ ::1 ] 08:51 -- User admin1 (Login Gagal)
+[ ::1 ] 08:51 -- User admin1 (Berhasil login)
+[ ::1 ] 08:55 -- User admin1 (Berhasil login)
+[ ::1 ] 10:24 -- admin1 Download File Report Exel
+[ ::1 ] 10:51 -- admin1 Download File Report Exel
+[ ::1 ] 10:56 --  Log Out
+[ ::1 ] 10:56 -- User operator@simpau.com (Login Gagal)
+[ ::1 ] 10:56 -- User operator@simpau.com (Login Gagal)
+[ ::1 ] 10:56 -- User admin1 (Berhasil login)

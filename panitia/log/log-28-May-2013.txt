@@ -1,0 +1,15 @@
+# Jejak pada: [ 28-May-2013 ] #
+[ ::1 ] 03:10 -- SMK051500035 Login Gagal.
+[ ::1 ] 03:10 -- SMK051500035 Login Gagal.
+[ ::1 ] 03:12 -- aaa Login
+[ ::1 ] 03:58 -- aaa Keluar
+[ ::1 ] 03:58 -- User admin (Berhasil login)
+[ ::1 ] 04:32 -- aaa Login
+[ ::1 ] 04:38 -- SMK051515001 Print Formulir
+[ ::1 ] 04:57 -- admin, Terima SMK051515001
+[ ::1 ] 04:58 -- admin, Terima SMK051515001
+[ ::1 ] 04:58 -- admin, Terima SMK051515001
+[ ::1 ] 05:00 -- admin Log Out
+[ ::1 ] 09:42 -- aaa Login
+[ ::1 ] 09:48 -- aaa Keluar
+[ ::1 ] 10:39 -- aaa Login

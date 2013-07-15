@@ -1,0 +1,125 @@
+body{
+    background-color: lightblue;
+    font-family: "Time News Roman";
+}
+#header{
+    background-image: url('img/header.png');
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+    
+    
+}
+.header{
+    background-color: green;
+}
+/*untuk membuat lengkung tinggal masukkan saja*/
+#umum, .umum, .header, #div_menu{
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+}
+#umum, .umum{
+    background-color: #99b2cc;
+}
+#profil{
+    background-color: #99ff33;
+}
+#formulir, #tampil{
+    background-color: #ffffff;
+    font-size: 12px;
+}
+#utama{
+    background-color: #cafc74;
+}
+#tampil, .tampil, #daftar, #div_menu{
+    font-size: 12px;
+    font-family: "Time News Roman";
+}
+#kepala{
+    font-family: "Time News Roman";
+}
+.form, #seneng{
+     background: #ffffff;
+     padding: 5px;
+     border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+}
+#status{
+    font-family: "time news roman";
+    background: grey;
+     padding: 5px;
+     border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+    
+}
+.nilai_un{
+    background-color: lightblue;
+}
+input, textarea{
+    color: #781351;
+    background: #fee3ad;
+    border: 1px solid #781351
+    text-shadow: 0 0 5px;
+}
+input:focus, textarea:focus{
+   background-color: white;
+}
+ol, li, pe, #p_kiri, #status {
+    font-size: 12px;
+}
+#kiri{
+    background-color: silver;
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+}
+#header{
+    background-color: yellow;
+}
+/* Menghilangkan garis bawah link di sini*/
+#p_kiri a:link, a:visited, #topmenu,{
+    text-decoration: none;
+    color: black;
+}
+#peringatan{
+    background-color: red;
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+}
+#login{
+    width: 400px;
+    background-color: orange;
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 12px;
+}
+/*Membuat Bayangan BOX*/
+#div_menu, #inputan {
+
+box-shadow: 5px 5px 7px #222;
+-moz-box-shadow: 5px 5px 7px #222;
+-webkit-box-shadow: 5px 5px 7px #222;
+-khtml-box-shadow: 5px 5px 7px #222;
+
+}

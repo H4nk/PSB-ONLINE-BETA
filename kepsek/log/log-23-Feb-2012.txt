@@ -1,0 +1,3 @@
+# Jejak pada: [ 23-Feb-2012 ] #
+[ 190.160.11.254 ] 15:52 -- User showcheap (Berhasil login)
+[ 190.160.11.254 ] 15:57 -- showcheap, Menghapus SMK0800022

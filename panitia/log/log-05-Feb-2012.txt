@@ -1,0 +1,13 @@
+# Jejak pada: [ 05-Feb-2012 ] #
+[ 127.0.0.1 ] 10:51 -- User admin (Berhasil login)
+[ 127.0.0.1 ] 10:53 -- admin Log Out
+[ 127.0.0.1 ] 10:56 --  Data Belum Lengkap
+[ 127.0.0.1 ] 10:57 -- adsf Terdaftar
+[ 127.0.0.1 ] 10:57 -- adsf Langkah 2
+[ 127.0.0.1 ] 10:58 -- User admin (Berhasil login)
+[ 127.0.0.1 ] 11:03 -- adsf Keluar
+[ 127.0.0.1 ] 17:19 -- adfdf Terdaftar
+[ 127.0.0.1 ] 17:19 -- adfdf Langkah 2
+[ 127.0.0.1 ] 17:19 -- adfdf Unggah Foto
+[ 127.0.0.1 ] 17:22 -- adfdf Unggah Foto
+[ 127.0.0.1 ] 18:15 --  Keluar

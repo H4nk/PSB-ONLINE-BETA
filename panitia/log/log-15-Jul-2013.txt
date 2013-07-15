@@ -1,0 +1,17 @@
+# Jejak pada: [ 15-Jul-2013 ] #
+[ ::1 ] 08:20 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:21 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:21 -- Harry Setya Hadi Unggah Foto
+[ ::1 ] 08:27 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:29 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:29 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:31 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:32 -- Harry Setya Hadi Terdaftar
+[ ::1 ] 08:32 -- Harry Setya Hadi Langkah 2
+[ ::1 ] 08:34 -- Harry Setya Hadi Unggah Foto
+[ ::1 ] 08:34 -- SMK071500000 Print Formulir
+[ ::1 ] 08:41 -- Harry Setya Hadi Keluar
+[ ::1 ] 08:41 -- User admin (Berhasil login)
+[ ::1 ] 08:44 -- admin Log Out
+[ ::1 ] 08:54 -- User admin (Berhasil login)
+[ ::1 ] 08:54 -- admin Log Out

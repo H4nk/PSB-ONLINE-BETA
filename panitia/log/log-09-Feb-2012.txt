@@ -1,0 +1,10 @@
+# Jejak pada: [ 09-Feb-2012 ] #
+[ 127.0.0.1 ] 12:00 --  Data Belum Lengkap
+[ 127.0.0.1 ] 12:00 -- a Terdaftar
+[ 127.0.0.1 ] 12:00 -- a Langkah 2
+[ 127.0.0.1 ] 12:05 -- a Unggah Foto
+[ 127.0.0.1 ] 12:08 -- a Keluar
+[ 127.0.0.1 ] 12:10 -- AGUS SUPARDI Terdaftar
+[ 127.0.0.1 ] 12:10 -- AGUS SUPARDI Langkah 2
+[ 127.0.0.1 ] 12:11 -- AGUS SUPARDI Unggah Foto
+[ 127.0.0.1 ] 12:11 -- SMK0900033 Print Formulir

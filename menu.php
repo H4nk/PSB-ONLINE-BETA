@@ -1,0 +1,2 @@
+    <td><div align='center' id='topmenu'><a href='index.php'>Home</a>| <a onClick="window.location='panduan.php'" href='#'>Panduan | <a onClick="window.location='hubungi.php'" href='#'>Hubungi Kami |<a onClick="window.location='daftar.php'" href='#'>Daftar |</a> <a onClick="window.location='langkah2.php'" href='#'>Sudah Terdaftar</a></div>
+            <div class='form'  id='inputan'>

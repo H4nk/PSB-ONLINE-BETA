@@ -1,0 +1,37 @@
+# Jejak pada: [ 06-Feb-2012 ] #
+[ 127.0.0.1 ] 08:21 --  Data Belum Lengkap
+[ 127.0.0.1 ] 08:31 --  Data Belum Lengkap
+[ 127.0.0.1 ] 09:06 -- SHOWCHEAP Terdaftar
+[ 127.0.0.1 ] 09:07 -- SHOWCHEAP Terdaftar
+[ 127.0.0.1 ] 09:07 -- SHOWCHEAP Keluar
+[ 127.0.0.1 ] 09:07 -- reboot Terdaftar
+[ 127.0.0.1 ] 09:09 -- reboot Terdaftar
+[ 127.0.0.1 ] 09:09 -- reboot Keluar
+[ 127.0.0.1 ] 09:10 -- SAYA Terdaftar
+[ 127.0.0.1 ] 09:10 -- SAYA Langkah 2
+[ 127.0.0.1 ] 09:10 -- SAYA Keluar
+[ 127.0.0.1 ] 09:10 -- User admin (Berhasil login)
+[ 127.0.0.1 ] 09:11 -- admin Mengubah Pengumuman.
+[ 127.0.0.1 ] 09:11 -- admin Log Out
+[ 127.0.0.1 ] 20:01 --  Data Belum Lengkap
+[ 127.0.0.1 ] 22:55 -- adf Terdaftar
+[ 127.0.0.1 ] 22:55 -- adf Langkah 2
+[ 127.0.0.1 ] 22:55 -- adf Unggah Foto
+[ 127.0.0.1 ] 23:08 -- asdf Terdaftar
+[ 127.0.0.1 ] 23:08 -- asdf Langkah 2
+[ 127.0.0.1 ] 23:11 -- asdf Langkah 2
+[ 127.0.0.1 ] 23:13 -- asdf Unggah Foto
+[ 127.0.0.1 ] 23:16 -- aaaaaaaaaaaaaaa Terdaftar
+[ 127.0.0.1 ] 23:16 -- aaaaaaaaaaaaaaa Langkah 2
+[ 127.0.0.1 ] 23:17 -- aaaaaaaaaaaaaaa Unggah Foto
+[ 127.0.0.1 ] 23:17 -- aaaaaaaaaaaaaaa Unggah Foto
+[ 127.0.0.1 ] 23:25 -- aaaaaaaaaaaaaaa Unggah Foto
+[ 127.0.0.1 ] 23:25 -- aaaaaaaaaaaaaaa Unggah Foto
+[ 127.0.0.1 ] 23:28 -- aaaaaaaaaaaaaaa Unggah Foto
+[ 127.0.0.1 ] 23:29 -- aaaaaaaaaaaaaaa Keluar
+[ 127.0.0.1 ] 23:29 -- asdfsdfs Terdaftar
+[ 127.0.0.1 ] 23:29 -- asdfsdfs Langkah 2
+[ 127.0.0.1 ] 23:29 -- asdfsdfs Keluar
+[ 127.0.0.1 ] 23:42 -- admin Terdaftar
+[ 127.0.0.1 ] 23:42 -- admin Langkah 2
+[ 127.0.0.1 ] 23:42 -- admin Unggah Foto

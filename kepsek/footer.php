@@ -1,0 +1,1 @@
+  <div class="container_16" id="footer">        Copyright © <?php echo date('Y'); ?> <a href="#">SMKN 2 SAWAHLUNTO</a> 		</div>    

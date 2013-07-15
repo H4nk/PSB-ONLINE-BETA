@@ -1,0 +1,77 @@
+body{
+    background-color: silver;
+    font-size: 12px;
+    
+}
+
+#header{
+    background-image: url('../img/header.png');
+    background-repeat: no-repeat;
+    background-size: 100% 200px;
+    
+    
+}
+/*Tabel statistik*/
+td.tbl{
+    background-color: #33ccff;
+    font-weight: bold;
+}
+td.sub{
+    background-color: #c3feff;
+}
+/*Tabel statistik*/
+a:link, a:visited{
+    text-decoration: none;
+    color: #000000;
+}
+#utama{
+    background-color: #e5ffcc;
+}
+/*membuat lengkung di sini*/
+#utama, #m_atas, #m_kiri, #user, #w_kiri, #kaki, #kontainer, #header, #pesenan {
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 13px;
+}
+/*membuat lengkung di sini*/
+#m_atas{
+    background-color: #8aaef6;
+}
+#m_kiri{
+    background-color: silver;
+}
+#user{
+    background-color: silver;
+}
+#w_kiri{
+    background-color: #4e6e83;
+}
+#kaki{
+    background-color: #b1bf5e;
+}
+#kontainer{
+    background-color: #9c9881;
+}
+/******* Box shadow masuk sini ***/
+#login, .inbux {
+    box-shadow: 10px 10px 10px #222;
+    -moz-box-shadow: 5px 5px 7px #222;
+    -webkit-box-shadow: 5px 5px 7px #222;
+}
+.inbux {
+    background-color: lightgreen;
+    border:0 solid #6B6B6B;  
+    -moz-border-radius:4px;  
+    -khtml-border-radius:4px 4px 4px 4px;  
+    -webkit-border-radius:4px 4px 4px 4px;  
+    border-radius:4px 4px 4px 4px;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+}
+a.link:hover{
+    text-shadow: 0 0 5px;
+}

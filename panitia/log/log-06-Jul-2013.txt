@@ -1,0 +1,12 @@
+# Jejak pada: [ 06-Jul-2013 ] #
+[ ::1 ] 03:06 -- SMK051500035 Login Gagal.
+[ ::1 ] 03:06 -- User admin (Berhasil login)
+[ ::1 ] 03:07 -- admin, Terima SMK051515001
+[ ::1 ] 03:07 -- admin, Terima SMK051515001
+[ ::1 ] 03:07 -- admin Mengubah Pengumuman.
+[ ::1 ] 03:08 -- admin Mengubah Pengumuman.
+[ ::1 ] 03:08 -- admin Download File Report Exel
+[ ::1 ] 03:09 -- admin Log Out
+[ ::1 ] 03:11 -- SMK051500035 Login Gagal.
+[ ::1 ] 03:11 -- SMK051500035 Login Gagal.
+[ ::1 ] 03:11 -- SMK051500035 Login Gagal.

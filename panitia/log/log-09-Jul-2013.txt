@@ -1,0 +1,11 @@
+# Jejak pada: [ 09-Jul-2013 ] #
+[ ::1 ] 09:45 -- User admin (Berhasil login)
+[ ::1 ] 09:46 -- admin, Set Waktu Siswa Ujian Online SMK070815151
+[ ::1 ] 10:53 -- Harry Setya Hadi Login
+[ ::1 ] 11:48 -- Harry Setya Hadi Keluar
+[ ::1 ] 11:49 -- User admin (Berhasil login)
+[ ::1 ] 11:51 -- admin, Terima SMK051515001
+[ ::1 ] 11:51 -- admin, Terima SMK070815151
+[ ::1 ] 15:55 -- Harry Setya Hadi Login
+[ ::1 ] 15:55 -- Harry Setya Hadi Unggah Foto
+[ ::1 ] 15:56 -- Harry Setya Hadi Unggah Foto

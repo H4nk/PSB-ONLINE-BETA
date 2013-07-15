@@ -1,0 +1,7 @@
+# Jejak pada: [ 05-Jun-2012 ] #
+[ 127.0.0.1 ] 13:59 -- SUCIPTO Terdaftar
+[ 127.0.0.1 ] 13:59 -- SUCIPTO Langkah 2
+[ 127.0.0.1 ] 13:59 -- SUCIPTO Keluar
+[ 127.0.0.1 ] 13:59 -- User admin (Berhasil login)
+[ 127.0.0.1 ] 13:59 -- admin Download File Report Exel
+[ 127.0.0.1 ] 14:00 -- admin Log Out
